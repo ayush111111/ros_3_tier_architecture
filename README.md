@@ -12,7 +12,7 @@ another ROS msg for this part). In the third node, simply print the data subscri
 
 
 
-ROS nodes ran in order 3-1-2
+**ROS nodes ran in order node_3->node_1->node_2**
 
 
 1. PTR:
@@ -28,8 +28,10 @@ ROS nodes ran in order 3-1-2
                 ctrl_c = True 
           
           
-    Above code is used to publish message when connection between node1 and node2 is established
-     
+Above code is used to publish message when connection between node1 and node2 is established
+
+2.rosgraph
+     ![](https://github.com/ayush111111/ros_3_tier_architecture/blob/master/Screenshot%20from%202020-03-28%2021-58-55.png)
      
        
        
