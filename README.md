@@ -28,5 +28,8 @@ ROS nodes ran in order 3-1-2
                 ctrl_c = True 
           
           
-       Above code is used to publish message when connection between node1 and node2 is established
+     Above code is used to publish message when connection between node1 and node2 is established
+     
+     ![]() 
+       
        
