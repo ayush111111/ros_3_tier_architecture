@@ -28,7 +28,7 @@ another ROS msg for this part). In the third node, simply print the data subscri
                 ctrl_c = True 
           
           
-Above code is used to publish message when connection between node1 and node2 is established
+Above code is used to publish message when connections are established  
 
 2.rosgraph
      ![](https://github.com/ayush111111/ros_3_tier_architecture/blob/master/Screenshot%20from%202020-03-28%2021-58-55.png)
